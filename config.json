@@ -2,8 +2,9 @@
   "loadingtime": "10",
   "ShowAds": "true",
   "activeautointer": "true",
-  "TimeBetweenInters": "60"
+  "TimeBetweenInters": "5"
 }
+
 
 
 

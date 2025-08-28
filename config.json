@@ -1,7 +1,7 @@
 {
   "loadingtime": "5",
   "activateVideo": "true",
-  "ShowAds": "true",
+  "ShowAds": "false",
   "testmode": "false",
   "checkgip": "false",
   "isp": "",
@@ -15,4 +15,5 @@
   "activeautointer": "true",
   "TimeBetweenInters": "60"
 }
+
 

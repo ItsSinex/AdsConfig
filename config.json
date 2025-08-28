@@ -1,17 +1,18 @@
 {
+  "loadingtime": "5",
   "activateVideo": "true",
   "ShowAds": "true",
-  "testmode": "true",
+  "testmode": "false",
   "checkgip": "false",
-  "isp": "YourISPName",
+  "isp": "",
   "interence": "true",
   "screens": [
     "https://i.imgur.com/1.png",
     "https://i.imgur.com/2.png",
     "https://i.imgur.com/3.png"
   ],
-  "loadingtime": "5",
-  "modLink": "https://example.com/mod",
+  "modLink": "https://test.com/mod",
   "activeautointer": "true",
   "TimeBetweenInters": "60"
 }
+

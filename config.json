@@ -1,9 +1,10 @@
 {
   "loadingtime": "10",
-  "ShowAds": "false",
+  "ShowAds": "true",
   "activeautointer": "true",
   "TimeBetweenInters": "60"
 }
+
 
 
 

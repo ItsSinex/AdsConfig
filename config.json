@@ -1,9 +1,10 @@
 {
   "loadingtime": "7",
   "ShowAds": "true",
-  "TimeBetweenInters": "30",
-  "TimeBetweenBanners": "10"
+  "TimeBetweenInters": "5",
+  "TimeBetweenBanners": "2"
 }
+
 
 
 

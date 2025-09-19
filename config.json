@@ -3,8 +3,9 @@
   "ShowAds": "true",
   "TimeBetweenInters": "5",
   "TimeBetweenBanners": "5",
-  "ShowAdsScene": "false"
+  "ShowAdsScene": "true"
 }
+
 
 
 

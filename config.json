@@ -3,8 +3,12 @@
   "ShowAds": "true",
   "TimeBetweenInters": "5",
   "TimeBetweenBanners": "5",
-  "ShowAdsScene": "true"
+  "BannerId": "aa",
+  "InterstitialId": "aa",
+  "RewardedId": "aa",
+  "AppOpenId": "aa"
 }
+
 
 
 

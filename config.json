@@ -3,11 +3,12 @@
   "ShowAds": "true",
   "TimeBetweenInters": "5",
   "TimeBetweenBanners": "5",
-  "BannerId": "aa",
-  "InterstitialId": "aa",
-  "RewardedId": "aa",
-  "AppOpenId": "aa"
+  "BannerId": "ca-app-pub-3940256099942544/3986624511",
+  "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
+  "RewardedId": "ca-app-pub-3940256099942544/5224354917",
+  "AppOpenId": "ca-app-pub-3940256099942544/9257395921"
 }
+
 
 
 

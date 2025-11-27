@@ -1,4 +1,5 @@
 {
+  "ShowVideo": "true",
   "LoadingTime": "5",
   "ShowAds": "true",
   "TimeBetweenInters": "5",
@@ -12,4 +13,5 @@
   "Inter3Time": "90",
   "Inter4Time": "120"
 }
+
 

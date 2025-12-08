@@ -3,7 +3,6 @@
   "ShowVideo": "true",
   "LoadingTime": "5",
   "ShowAds": "true",
-  "DelayToAddAfterReward": "60",
   "TimeBetweenInters": "5",
   "TimeBetweenBanners": "5",
   "ShowAdsScene": "true",
@@ -15,6 +14,7 @@
   "Inter3Time": "90",
   "Inter4Time": "120"
 }
+
 
 
 

@@ -12,7 +12,16 @@
   "Inter1Time": "45",
   "Inter2Time": "90",
   "Inter3Time": "90",
-  "Inter4Time": "120"
+  "Inter4Time": "120",
+  "Mod1Name": "mod1",
+  "Mod1DownloadLink": "mod1Link",
+  "Mod1ImageLink": "mod1Image",
+  "Mod2Name": "mod2",
+  "Mod2DownloadLink": "mod2Link",
+  "Mod2ImageLink": "mod2Image",
+  "Mod3Name": "mod3",
+  "Mod3DownloadLink": "mod3Link",
+  "Mod3ImageLink": "mod3Image",
 }
 
 
